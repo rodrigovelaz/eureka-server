@@ -1,4 +1,10 @@
-# Eureka server
+# Eureka Server
+
+- Implementation of Eureka Server
+
+# Admin
+
+- Eureka: http://localhost:8761/
 
 # Dependencies
 
@@ -7,10 +13,10 @@
 - spring-boot-actuator
 - spring-cloud: Camden.SR5
 
-# Default config 
+# Default parameters
 
 - server.port: 8761
 - management.security.enabled: false
 - security.basic.enabled: false
 
-# Parameters
+# Enviroment parameters
