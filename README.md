@@ -10,5 +10,7 @@
 # Default config 
 
 - server.port=8761
+- management.security.enabled=false
+- security.basic.enabled=false
 
 # Parameters
